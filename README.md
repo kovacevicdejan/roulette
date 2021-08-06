@@ -1,2 +1,2 @@
 # roulette
-A simple implementation of a rulette game, done in Java
+A simple implementation of a roulette game, done in Java
